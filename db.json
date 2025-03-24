@@ -2,8 +2,8 @@
   "notes": [
     {"id": 1, "matiere": "Mathématiques", "score": 15},
     {"id": 2, "matiere": "Physique", "score": 12},
-    {"id": 3, "matiere": "Histoire", "score": 18},
+    {"id": 3, "matiere": "Histoire", "score": 1},
     {"id": 4, "matiere": "Anglais", "score": 14},
-    {"id": 5, "matiere": "SVT", "score": 16}
+    {"id": 5, "matiere": "SVT", "score": 6}
   ]
 }
